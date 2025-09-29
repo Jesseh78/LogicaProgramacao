@@ -1,0 +1,26 @@
+NOME: José Ulisses Fernandes Junior
+RGM:  11252401443
+
+Tags pesquisadas (HTML5) e motivo da escolha:
+
+1) <header>
+Define o cabeçalho da página ou seção. Melhora SEO e acessibilidade.
+
+2) <nav>
+Delimita a área de navegação principal. Ajuda leitores de tela a localizar menus.
+
+3) <article>
+Representa um conteúdo independente (post). Facilita reutilização e indexação.
+
+4) <section>
+Organiza conteúdo por tópicos dentro do artigo. Dá estrutura semântica clara.
+
+5) <figure> e <figcaption>
+Agrupa mídia com legenda associada. Melhora compreensão do conteúdo visual.
+
+Extras utilizados na página:
+- <time>: marcação de datas em formato legível por máquinas.
+- <aside>: barra lateral com conteúdo complementar.
+- <footer>: rodapé com informações de contato.
+
+
